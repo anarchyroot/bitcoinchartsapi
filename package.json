@@ -1,0 +1,31 @@
+{
+  "name": "bitcoin_charts_api",
+  "version": "1.0.0",
+  "description": "bitcoin charts market prices api",
+  "main": ".mongorc.js",
+  "scripts": {
+    "test": "make"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anarchyroot/bitcoinchartsapi.git"
+  },
+  "keywords": [
+    "bitcoin",
+    "charts",
+    "api",
+    "all",
+    "markets",
+    "historical",
+    "pricing"
+  ],
+  "author": "Matthew Altomare \"matt@shotbymatt.com\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anarchyroot/bitcoinchartsapi/issues"
+  },
+  "homepage": "https://github.com/anarchyroot/bitcoinchartsapi#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
